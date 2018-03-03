@@ -1,0 +1,5 @@
+Dependencies for Project 'arm_cortexM0l_dotproduct_example', Target 'Target 1': (DO NOT MODIFY !)
+F (..\arm_dotproduct_example_f32.c)(0x4E2E35C2)(-c --cpu Cortex-M0 --li -g -O2 -Otime --apcs=interwork -I..\..\..\..\Include -I..\..\..\..\..\Device\ARM\ARMCM0\Include-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include-DARM_MATH_CM0 -o .\debug\arm_dotproduct_example_f32.o --omf_browse .\debug\arm_dotproduct_example_f32.crf --depend .\debug\arm_dotproduct_example_f32.d)
+F (..\system_ARMCM0.c)(0x4E2E473C)(-c --cpu Cortex-M0 --li -g -O2 -Otime --apcs=interwork -I..\..\..\..\Include -I..\..\..\..\..\Device\ARM\ARMCM0\Include-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include-DARM_MATH_CM0 -o .\debug\system_armcm0.o --omf_browse .\debug\system_armcm0.crf --depend .\debug\system_armcm0.d)
+F (.\startup_ARMCM0.s)(0x4E2E35C2)(--cpu Cortex-M0 --li -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include--list .\debug\startup_armcm0.lst --xref -o .\debug\startup_armcm0.o --depend .\debug\startup_armcm0.d)
+F (..\..\..\..\Lib\ARM\arm_cortexM0l_math.lib)(0x4E2E35C2)()

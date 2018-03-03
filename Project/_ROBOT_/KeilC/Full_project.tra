@@ -1,0 +1,40 @@
+*** Creating Trace Output File 'Full_project.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"stm32f4xx_it.o"'
+### List of Objects: adding '"main.o"'
+### List of Objects: adding '"manual.o"'
+### List of Objects: adding '"system_stm32f4xx.o"'
+### List of Objects: adding '"misc.o"'
+### List of Objects: adding '"stm32f4xx_exti.o"'
+### List of Objects: adding '"stm32f4xx_gpio.o"'
+### List of Objects: adding '"stm32f4xx_rcc.o"'
+### List of Objects: adding '"stm32f4xx_syscfg.o"'
+### List of Objects: adding '"stm32f4xx_usart.o"'
+### List of Objects: adding '"stm32f4xx_tim.o"'
+### List of Objects: adding '"stm32f4_discovery_lis302dl.o"'
+### List of Objects: adding '"stm32f4xx_spi.o"'
+### List of Objects: adding '"stm32f4_discovery.o"'
+### List of Objects: adding '".\startup_stm32f4xx.o"'
+### List of Objects: adding '"encoder.o"'
+### List of Objects: adding '"motor.o"'
+### List of Objects: adding '"realtime_manage.o"'
+### List of Objects: adding '"servo.o"'
+### List of Objects: adding '"bluetooth_hc06.o"'
+### List of Objects: adding '"ultrasonic_sr04.o"'
+### List of Objects: adding '"acceleration_sensor.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M4.fp "stm32f4xx_it.o" "main.o" "manual.o" "system_stm32f4xx.o" "misc.o" "stm32f4xx_exti.o" "stm32f4xx_gpio.o" "stm32f4xx_rcc.o" "stm32f4xx_syscfg.o" "stm32f4xx_usart.o" "stm32f4xx_tim.o" "stm32f4_discovery_lis302dl.o" "stm32f4xx_spi.o" "stm32f4_discovery.o" ".\startup_stm32f4xx.o" "encoder.o" "motor.o" "realtime_manage.o" "servo.o" "bluetooth_hc06.o" "ultrasonic_sr04.o" "acceleration_sensor.o" --library_type=microlib --strict --scatter "Full_project.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\Full_project.map" -o "Full_project.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: 'Full_project.axf'
+### ADS-LD Command File: 'Full_project.lnp'
+### Checking for dirty Components...
+### Creating CmdFile 'Full_project.lnp', Handle=0x00000358
+### Writing '.lnp' file
+### ADS-LD Command file 'Full_project.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

@@ -1,0 +1,1 @@
+auto.o: ..\Auto.c
